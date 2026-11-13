@@ -11,6 +11,7 @@
   "dependencies": {
     "@remotion/cli": "4.0.543",
     "@remotion/media": "^4.0.543",
+    "@remotion/player": "^4.0.543",
     "@remotion/zod-types": "4.0.543",
     "msedge-tts": "^2.1.1",
     "react": "19.3.1",
