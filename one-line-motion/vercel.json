@@ -4,7 +4,11 @@
   "outputDirectory": "dist",
   "rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/studio",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/voice",
       "destination": "/index.html"
     }
   ]
